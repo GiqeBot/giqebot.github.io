@@ -1,1 +1,1 @@
-# giqebot.github.io
+# giqebot.github.io Sayfa yönlendirme.
